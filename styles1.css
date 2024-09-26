@@ -1,0 +1,61 @@
+
+.nav-scroll-trigger {
+    height: calc(100% - 110vh);
+}
+
+.body-white .navbar_link, .body-white .navbar_dropdown, .body-white .status-bar__scroll-item, .body-white .status-bar__title-wrapper, .body-white .navbar_dropdown-link, .body-white.is-contact .navbar_logo {
+    color: #141414 !important;
+}
+
+.body-white .status-bar__gradient.is-light, .body-white .status-bar__gradient.is-light-right {
+    display: block !important;
+}
+
+.body-white .status-bar__gradient.is-dark, .body-white .status-bar__gradient.is-dark-right {
+    display: none !important;
+}
+
+.body-white.is-contact .footer, .body-white .navbar_menu-trigger, .body-white.is-contact .navbar_dot.background-purple {
+    background-color: white !important;
+}
+
+.body-white.is-contact .footer_icon {
+    color: white !important;
+}
+
+.body-white .navbar_link-bg, .body-white .navbar_dropdown-bg {
+    background-color: white !important;
+}
+
+.body-white.is-contact .navbar_link-bg, .body-white.is-contact .navbar_dropdown-bg {
+    background-color: #e3b2f1 !important;
+}
+
+.navbar_link.w--current .navbar_dot.background-purple {
+    width: 0.375rem !important;
+    height: 0.375rem !important;
+}
+
+.navbar_link.w--current .navbar_dot, .navbar_menu-link.w--current .navbar_dot, .navbar_menu-dropdown-link.w--current .navbar_dot, .navbar_dropdown-link.w--current .navbar_dot {
+    width: 0.5rem !important;
+    height: 0.5rem !important;
+}
+
+.body-white.is-contact .footer {
+    border-color: white !important;
+}
+
+/* Weglot Switch */
+.body-white .wg-button {
+    border: 1px solid rgb(0 0 0 / 16%);
+    color: #000000;
+}
+
+.body-white .wg-button:hover {
+    color: #000000;
+}
+.header-service_container {
+    width: 80%; /* atau ukuran sesuai kebutuhan */
+    height: 1000px; /* sesuaikan tinggi */
+  }
+  
