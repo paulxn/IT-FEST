@@ -145,7 +145,7 @@
     opacity: 0;
     perspective-origin: 0%;
     transform-origin: 0%;
-    background-image: linear-gradient(90deg, #d6a3e40a, #d6a3e41f);
+    background-image: linear-gradient(90deg, #ff472b0a, #ff472b1f);
     width: 100%;
     position: absolute;
     inset: 0% auto 0% 0%;
@@ -334,7 +334,7 @@
     opacity: 0;
     perspective-origin: 0%;
     transform-origin: 0%;
-    background-image: linear-gradient(90deg, #d6a3e40a, #d6a3e41f);
+    background-image: linear-gradient(90deg, #ff472b0a, #ff472b1f);
     width: 100%;
     position: absolute;
     inset: 0% auto 0% 0%;

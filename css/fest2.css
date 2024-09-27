@@ -2088,7 +2088,7 @@ textarea.w-select {
   --off-white: #f3efef;
   --orange: #ff472b;
   --slight-black: #141414;
-  --purple: #d6a3e4;
+  --purple: #ff472b;
   --text-grey: #5a5a5a;
   --white: white;
   --border-circle: 1000rem;
@@ -4012,7 +4012,7 @@ figure {
 
 .button-icon_wrap.bg-purple {
   background-color: var(--purple);
-  background-color: #d6a3e4;
+  background-color: #ff472b;
   position: relative;
 }
 
@@ -4050,7 +4050,7 @@ figure {
 
 .button-icon_hover.bg-purple {
   background-color: var(--purple);
-  background-color: #d6a3e4;
+  background-color: #ff472b;
 }
 
 .button-icon_hover.is-ghost-light-purple {
@@ -4896,7 +4896,7 @@ figure {
 
 .svg__image {
   z-index: 1;
-  background-color: #d6a3e4;
+  background-color: #ff472b;
   width: 100%;
   display: block;
 }
@@ -5072,7 +5072,7 @@ figure {
 }
 
 .services-item_arrow-wrap {
-  background-image: linear-gradient(315deg, #d6a3e429, #d6a3e400);
+  background-image: linear-gradient(315deg, #ff472b29, #ff472b00);
   border-radius: 100vw;
   flex: none;
   justify-content: center;
@@ -5181,7 +5181,7 @@ figure {
 .background-gradient {
   z-index: -1;
   opacity: 1;
-  background-image: linear-gradient(135deg, #d6a3e400, #d6a3e412);
+  background-image: linear-gradient(135deg, #ff472b00, #ff472b12);
   border-radius: 2rem;
   width: 100%;
   height: 100%;
@@ -5191,13 +5191,13 @@ figure {
 
 .background-gradient.is-no-code-benefits {
   opacity: 0;
-  background-image: linear-gradient(135deg, #d6a3e400, #d6a3e429);
+  background-image: linear-gradient(135deg, #ff472b00, #ff472b29);
   border-bottom: 1px solid #48424e33;
 }
 
 .background-gradient.is-faq {
   opacity: 0;
-  background-image: linear-gradient(135deg, #d6a3e400, #d6a3e429);
+  background-image: linear-gradient(135deg, #ff472b00, #ff472b29);
   border-radius: 0;
 }
 
@@ -5256,7 +5256,7 @@ figure {
 
 .services-item_hover-bg {
   opacity: 0;
-  background-image: linear-gradient(135deg, #d6a3e400, #d6a3e412);
+  background-image: linear-gradient(135deg, #ff472b00, #ff472b12);
   border-bottom: 0.0625rem solid #48424e;
   border-radius: 2rem;
   width: 100%;
@@ -5309,7 +5309,7 @@ figure {
 }
 
 .heading-dot {
-  color: #d6a3e4;
+  color: #ff472b;
 }
 
 .why-ctc_heading {
@@ -5436,7 +5436,7 @@ figure {
 }
 
 .button-3.is-form-submit:hover {
-  background-color: #d6a3e4;
+  background-color: #ff472b;
 }
 
 .why-citc_item-wrap {
@@ -5609,7 +5609,7 @@ figure {
 .button-link_bg {
   z-index: 0;
   opacity: 0;
-  background-image: linear-gradient(212deg, #d6a3e400 51%, #d6a3e4);
+  background-image: linear-gradient(212deg, #ff472b00 51%, #ff472b);
   position: absolute;
   inset: 0%;
 }
@@ -5620,7 +5620,7 @@ figure {
 }
 
 .button-link_bg.is-bottom {
-  background-image: linear-gradient(302deg, #d6a3e400 51%, #d6a3e4);
+  background-image: linear-gradient(302deg, #ff472b00 51%, #ff472b);
 }
 
 .button-link_bg.is-white {
@@ -5687,7 +5687,7 @@ figure {
   z-index: 1;
   border: 1px solid var(--purple);
   color: #141414;
-  background-color: #d6a3e4;
+  background-color: #ff472b;
   border-top-left-radius: 2rem;
   border-top-right-radius: 2rem;
   position: relative;
@@ -5722,7 +5722,7 @@ figure {
 .form_input-foot:hover,
 .form_input-foot:focus {
   border-width: 1px;
-  border-color: #d6a3e4;
+  border-color: #ff472b;
 }
 
 .foot-link_dot {
@@ -5800,7 +5800,7 @@ figure {
 }
 
 .btn-social.is-purple {
-  background-color: #d6a3e4;
+  background-color: #ff472b;
 }
 
 .foot-subscribe {
@@ -5919,7 +5919,7 @@ figure {
 .foot_logo {
   grid-column-gap: 0.0625rem;
   grid-row-gap: 0.0625rem;
-  color: #d6a3e4;
+  color: #ff472b;
   width: 3.5rem;
   display: flex;
   position: absolute;
@@ -5954,7 +5954,7 @@ figure {
 }
 
 .foot_text-link:hover {
-  color: #d6a3e4;
+  color: #ff472b;
 }
 
 .heading-success {
@@ -5982,7 +5982,7 @@ figure {
 }
 
 .foot_icon {
-  color: #d6a3e4;
+  color: #ff472b;
   max-width: 25%;
   position: absolute;
   top: 0;
@@ -6672,7 +6672,7 @@ figure {
 }
 
 .project-tag.background-purple-gradient {
-  background-image: linear-gradient(90deg, #d6a3e429, #d6a3e414);
+  background-image: linear-gradient(90deg, #ff472b29, #ff472b14);
 }
 
 .project-tags-corner {
@@ -6918,7 +6918,7 @@ figure {
   opacity: 0;
   perspective-origin: 0%;
   transform-origin: 0%;
-  background-image: linear-gradient(90deg, #d6a3e40a, #d6a3e41f);
+  background-image: linear-gradient(90deg, #ff472b0a, #ff472b1f);
   width: 100%;
   position: absolute;
   inset: 0% auto 0% 0%;
@@ -8439,7 +8439,7 @@ figure {
 .navbar_link-bg {
   z-index: -1;
   opacity: 0;
-  background-image: linear-gradient(315deg, #d6a3e429, #d6a3e400);
+  background-image: linear-gradient(315deg, #ff472b29, #ff472b00);
   border-radius: 0.5rem;
   position: absolute;
   inset: 0%;
@@ -8913,7 +8913,7 @@ figure {
   z-index: 0;
   background-color: var(--off-white);
   color: var(--slight-black);
-  background-image: linear-gradient(#f3efef33 75%, #d6a3e433);
+  background-image: linear-gradient(#f3efef33 75%, #ff472b33);
   border-radius: 2rem;
   position: relative;
 }
@@ -9074,7 +9074,7 @@ figure {
 .wg-button {
   color: var(--grey);
   text-transform: uppercase;
-  background-image: linear-gradient(135deg, #d6a3e400, #d6a3e412);
+  background-image: linear-gradient(135deg, #ff472b00, #ff472b12);
   border: 1px solid #ffffff29;
   border-radius: 100vw;
   flex-direction: column;
@@ -9257,7 +9257,7 @@ figure {
 .wg-button-2 {
   color: #c8c6c6;
   text-transform: uppercase;
-  background-image: linear-gradient(135deg, #d6a3e400, #d6a3e412);
+  background-image: linear-gradient(135deg, #ff472b00, #ff472b12);
   border: 1px solid #ffffff29;
   border-radius: 100vw;
   flex-direction: column;
@@ -9292,7 +9292,7 @@ figure {
 .wg-button-3 {
   color: #c8c6c6;
   text-transform: uppercase;
-  background-image: linear-gradient(135deg, #d6a3e400, #d6a3e412);
+  background-image: linear-gradient(135deg, #ff472b00, #ff472b12);
   border: 1px solid #ffffff29;
   border-radius: 100vw;
   flex-direction: column;
@@ -9333,7 +9333,7 @@ figure {
   grid-row-gap: 0.375rem;
   color: #141414;
   cursor: pointer;
-  background-color: #d6a3e4;
+  background-color: #ff472b;
   border-radius: 0.5rem;
   align-items: center;
   height: 2rem;
@@ -10666,7 +10666,7 @@ figure {
 
 .start-project_arrow.bg-purple {
   background-color: var(--purple);
-  background-color: #d6a3e4;
+  background-color: #ff472b;
   position: relative;
 }
 
@@ -11282,7 +11282,7 @@ figure {
 }
 
 .integrations_item:hover {
-  border: 1px solid #d6a3e433;
+  border: 1px solid #ff472b33;
 }
 
 .integrations_img {
@@ -19238,7 +19238,7 @@ textarea.w-select {
   --off-white: #f3efef;
   --orange: #ff472b;
   --slight-black: #141414;
-  --purple: #d6a3e4;
+  --purple: #ff472b;
   --text-grey: #5a5a5a;
   --white: white;
   --border-circle: 1000rem;
@@ -21162,7 +21162,7 @@ figure {
 
 .button-icon_wrap.bg-purple {
   background-color: var(--purple);
-  background-color: #d6a3e4;
+  background-color: #ff472b;
   position: relative;
 }
 
@@ -21200,7 +21200,7 @@ figure {
 
 .button-icon_hover.bg-purple {
   background-color: var(--purple);
-  background-color: #d6a3e4;
+  background-color: #ff472b;
 }
 
 .button-icon_hover.is-ghost-light-purple {
@@ -22046,7 +22046,7 @@ figure {
 
 .svg__image {
   z-index: 1;
-  background-color: #d6a3e4;
+  background-color: #ff472b;
   width: 100%;
   display: block;
 }
@@ -22222,7 +22222,7 @@ figure {
 }
 
 .services-item_arrow-wrap {
-  background-image: linear-gradient(315deg, #d6a3e429, #d6a3e400);
+  background-image: linear-gradient(315deg, #ff472b29, #ff472b00);
   border-radius: 100vw;
   flex: none;
   justify-content: center;
@@ -22331,7 +22331,7 @@ figure {
 .background-gradient {
   z-index: -1;
   opacity: 1;
-  background-image: linear-gradient(135deg, #d6a3e400, #d6a3e412);
+  background-image: linear-gradient(135deg, #ff472b00, #ff472b12);
   border-radius: 2rem;
   width: 100%;
   height: 100%;
@@ -22341,13 +22341,13 @@ figure {
 
 .background-gradient.is-no-code-benefits {
   opacity: 0;
-  background-image: linear-gradient(135deg, #d6a3e400, #d6a3e429);
+  background-image: linear-gradient(135deg, #ff472b00, #ff472b29);
   border-bottom: 1px solid #48424e33;
 }
 
 .background-gradient.is-faq {
   opacity: 0;
-  background-image: linear-gradient(135deg, #d6a3e400, #d6a3e429);
+  background-image: linear-gradient(135deg, #ff472b00, #ff472b29);
   border-radius: 0;
 }
 
@@ -22406,7 +22406,7 @@ figure {
 
 .services-item_hover-bg {
   opacity: 0;
-  background-image: linear-gradient(135deg, #d6a3e400, #d6a3e412);
+  background-image: linear-gradient(135deg, #ff472b00, #ff472b12);
   border-bottom: 0.0625rem solid #48424e;
   border-radius: 2rem;
   width: 100%;
@@ -22459,7 +22459,7 @@ figure {
 }
 
 .heading-dot {
-  color: #d6a3e4;
+  color: #ff472b;
 }
 
 .why-ctc_heading {
@@ -22586,7 +22586,7 @@ figure {
 }
 
 .button-3.is-form-submit:hover {
-  background-color: #d6a3e4;
+  background-color: #ff472b;
 }
 
 .why-citc_item-wrap {
@@ -22759,7 +22759,7 @@ figure {
 .button-link_bg {
   z-index: 0;
   opacity: 0;
-  background-image: linear-gradient(212deg, #d6a3e400 51%, #d6a3e4);
+  background-image: linear-gradient(212deg, #ff472b00 51%, #ff472b);
   position: absolute;
   inset: 0%;
 }
@@ -22770,7 +22770,7 @@ figure {
 }
 
 .button-link_bg.is-bottom {
-  background-image: linear-gradient(302deg, #d6a3e400 51%, #d6a3e4);
+  background-image: linear-gradient(302deg, #ff472b00 51%, #ff472b);
 }
 
 .button-link_bg.is-white {
@@ -22837,7 +22837,7 @@ figure {
   z-index: 1;
   border: 1px solid var(--purple);
   color: #141414;
-  background-color: #d6a3e4;
+  background-color: #ff472b;
   border-top-left-radius: 2rem;
   border-top-right-radius: 2rem;
   position: relative;
@@ -22872,7 +22872,7 @@ figure {
 .form_input-foot:hover,
 .form_input-foot:focus {
   border-width: 1px;
-  border-color: #d6a3e4;
+  border-color: #ff472b;
 }
 
 .foot-link_dot {
@@ -22950,7 +22950,7 @@ figure {
 }
 
 .btn-social.is-purple {
-  background-color: #d6a3e4;
+  background-color: #ff472b;
 }
 
 .foot-subscribe {
@@ -23069,7 +23069,7 @@ figure {
 .foot_logo {
   grid-column-gap: 0.0625rem;
   grid-row-gap: 0.0625rem;
-  color: #d6a3e4;
+  color: #ff472b;
   width: 3.5rem;
   display: flex;
   position: absolute;
@@ -23104,7 +23104,7 @@ figure {
 }
 
 .foot_text-link:hover {
-  color: #d6a3e4;
+  color: #ff472b;
 }
 
 .heading-success {
@@ -23132,7 +23132,7 @@ figure {
 }
 
 .foot_icon {
-  color: #d6a3e4;
+  color: #ff472b;
   max-width: 25%;
   position: absolute;
   top: 0;
@@ -23822,7 +23822,7 @@ figure {
 }
 
 .project-tag.background-purple-gradient {
-  background-image: linear-gradient(90deg, #d6a3e429, #d6a3e414);
+  background-image: linear-gradient(90deg, #ff472b29, #ff472b14);
 }
 
 .project-tags-corner {
@@ -24068,7 +24068,7 @@ figure {
   opacity: 0;
   perspective-origin: 0%;
   transform-origin: 0%;
-  background-image: linear-gradient(90deg, #d6a3e40a, #d6a3e41f);
+  background-image: linear-gradient(90deg, #ff472b0a, #ff472b1f);
   width: 100%;
   position: absolute;
   inset: 0% auto 0% 0%;
@@ -25589,7 +25589,7 @@ figure {
 .navbar_link-bg {
   z-index: -1;
   opacity: 0;
-  background-image: linear-gradient(315deg, #d6a3e429, #d6a3e400);
+  background-image: linear-gradient(315deg, #ff472b29, #ff472b00);
   border-radius: 0.5rem;
   position: absolute;
   inset: 0%;
@@ -26063,7 +26063,7 @@ figure {
   z-index: 0;
   background-color: var(--off-white);
   color: var(--slight-black);
-  background-image: linear-gradient(#f3efef33 75%, #d6a3e433);
+  background-image: linear-gradient(#f3efef33 75%, #ff472b33);
   border-radius: 2rem;
   position: relative;
 }
@@ -26224,7 +26224,7 @@ figure {
 .wg-button {
   color: var(--grey);
   text-transform: uppercase;
-  background-image: linear-gradient(135deg, #d6a3e400, #d6a3e412);
+  background-image: linear-gradient(135deg, #ff472b00, #ff472b12);
   border: 1px solid #ffffff29;
   border-radius: 100vw;
   flex-direction: column;
@@ -26407,7 +26407,7 @@ figure {
 .wg-button-2 {
   color: #c8c6c6;
   text-transform: uppercase;
-  background-image: linear-gradient(135deg, #d6a3e400, #d6a3e412);
+  background-image: linear-gradient(135deg, #ff472b00, #ff472b12);
   border: 1px solid #ffffff29;
   border-radius: 100vw;
   flex-direction: column;
@@ -26442,7 +26442,7 @@ figure {
 .wg-button-3 {
   color: #c8c6c6;
   text-transform: uppercase;
-  background-image: linear-gradient(135deg, #d6a3e400, #d6a3e412);
+  background-image: linear-gradient(135deg, #ff472b00, #ff472b12);
   border: 1px solid #ffffff29;
   border-radius: 100vw;
   flex-direction: column;
@@ -26483,7 +26483,7 @@ figure {
   grid-row-gap: 0.375rem;
   color: #141414;
   cursor: pointer;
-  background-color: #d6a3e4;
+  background-color: #ff472b;
   border-radius: 0.5rem;
   align-items: center;
   height: 2rem;
@@ -27816,7 +27816,7 @@ figure {
 
 .start-project_arrow.bg-purple {
   background-color: var(--purple);
-  background-color: #d6a3e4;
+  background-color: #ff472b;
   position: relative;
 }
 
@@ -28432,7 +28432,7 @@ figure {
 }
 
 .integrations_item:hover {
-  border: 1px solid #d6a3e433;
+  border: 1px solid #ff472b33;
 }
 
 .integrations_img {

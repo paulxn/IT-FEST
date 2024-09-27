@@ -35,9 +35,6 @@ b,strong {
     font-weight: 700
 }
 
-.body-white .navbar_link, .body-white .navbar_dropdown, .body-white .status-bar__scroll-item, .body-white .status-bar__title-wrapper, .body-white .navbar_dropdown-link, .body-white.is-contact .navbar_logo {
-    color: #141414 !important;
-}
 
 dfn {
     font-style: italic
@@ -1963,7 +1960,7 @@ textarea.w-input,textarea.w-select {
     --off-white: #f3efef;
     --orange: #ff472b;
     --slight-black: #141414;
-    --purple: #d6a3e4;
+    --purple: #ff472b;
     --text-grey: #5a5a5a;
     --white: white;
     --border-circle: 1000rem;
@@ -3316,13 +3313,6 @@ figure {
     position: relative
 }
 
-.navbar_links {
-    grid-column-gap: .5rem;
-    grid-row-gap: .5rem;
-    flex-direction: row;
-    display: flex;
-    overflow: hidden
-}
 
 .social-link {
     cursor: pointer;
@@ -3845,7 +3835,7 @@ figure {
 
 .button-icon_wrap.bg-purple {
     background-color: var(--purple);
-    background-color: #d6a3e4;
+    background-color: #ff472b;
     position: relative
 }
 
@@ -3883,7 +3873,7 @@ figure {
 
 .button-icon_hover.bg-purple {
     background-color: var(--purple);
-    background-color: #d6a3e4
+    background-color: #ff472b
 }
 
 .button-icon_hover.is-ghost-light-purple {
@@ -4715,7 +4705,7 @@ figure {
 
 .svg__image {
     z-index: 1;
-    background-color: #d6a3e4;
+    background-color: #ff472b;
     width: 100%;
     display: block
 }
@@ -4891,7 +4881,7 @@ figure {
 }
 
 .services-item_arrow-wrap {
-    background-image: linear-gradient(315deg,#d6a3e429,#d6a3e400);
+    background-image: linear-gradient(315deg,#ff472b29,#ff472b00);
     border-radius: 100vw;
     flex: none;
     justify-content: center;
@@ -5000,7 +4990,7 @@ figure {
 .background-gradient {
     z-index: -1;
     opacity: 1;
-    background-image: linear-gradient(135deg,#d6a3e400,#d6a3e412);
+    background-image: linear-gradient(135deg,#ff472b00,#ff472b12);
     border-radius: 2rem;
     width: 100%;
     height: 100%;
@@ -5010,13 +5000,13 @@ figure {
 
 .background-gradient.is-no-code-benefits {
     opacity: 0;
-    background-image: linear-gradient(135deg,#d6a3e400,#d6a3e429);
+    background-image: linear-gradient(135deg,#ff472b00,#ff472b29);
     border-bottom: 1px solid #48424e33
 }
 
 .background-gradient.is-faq {
     opacity: 0;
-    background-image: linear-gradient(135deg,#d6a3e400,#d6a3e429);
+    background-image: linear-gradient(135deg,#ff472b00,#ff472b29);
     border-radius: 0
 }
 
@@ -5075,7 +5065,7 @@ figure {
 
 .services-item_hover-bg {
     opacity: 0;
-    background-image: linear-gradient(135deg,#d6a3e400,#d6a3e412);
+    background-image: linear-gradient(135deg,#ff472b00,#ff472b12);
     border-bottom: .0625rem solid #48424e;
     border-radius: 2rem;
     width: 100%;
@@ -5117,7 +5107,7 @@ figure {
 }
 
 .heading-dot {
-    color: #d6a3e4
+    color: #ff472b
 }
 
 .why-ctc_heading {
@@ -5243,7 +5233,7 @@ figure {
 }
 
 .button-3.is-form-submit:hover {
-    background-color: #d6a3e4
+    background-color: #ff472b
 }
 
 .why-citc_item-wrap {
@@ -5416,7 +5406,7 @@ figure {
 .button-link_bg {
     z-index: 0;
     opacity: 0;
-    background-image: linear-gradient(212deg,#d6a3e400 51%,#d6a3e4);
+    background-image: linear-gradient(212deg,#ff472b00 51%,#ff472b);
     position: absolute;
     inset: 0%
 }
@@ -5427,7 +5417,7 @@ figure {
 }
 
 .button-link_bg.is-bottom {
-    background-image: linear-gradient(302deg,#d6a3e400 51%,#d6a3e4)
+    background-image: linear-gradient(302deg,#ff472b00 51%,#ff472b)
 }
 
 .button-link_bg.is-white {
@@ -5494,7 +5484,7 @@ figure {
     z-index: 1;
     border: 1px solid var(--purple);
     color: #141414;
-    background-color: #d6a3e4;
+    background-color: #ff472b;
     border-top-left-radius: 2rem;
     border-top-right-radius: 2rem;
     position: relative;
@@ -5528,7 +5518,7 @@ figure {
 
 .form_input-foot:hover,.form_input-foot:focus {
     border-width: 1px;
-    border-color: #d6a3e4
+    border-color: #ff472b
 }
 
 .foot-link_dot {
@@ -5606,7 +5596,7 @@ figure {
 }
 
 .btn-social.is-purple {
-    background-color: #d6a3e4
+    background-color: #ff472b
 }
 
 .foot-subscribe {
@@ -5725,7 +5715,7 @@ figure {
 .foot_logo {
     grid-column-gap: .0625rem;
     grid-row-gap: .0625rem;
-    color: #d6a3e4;
+    color: #ff472b;
     width: 3.5rem;
     display: flex;
     position: absolute;
@@ -5760,7 +5750,7 @@ figure {
 }
 
 .foot_text-link:hover {
-    color: #d6a3e4
+    color: #ff472b
 }
 
 .heading-success {
@@ -5788,7 +5778,7 @@ figure {
 }
 
 .foot_icon {
-    color: #d6a3e4;
+    color: #ff472b;
     max-width: 25%;
     position: absolute;
     top: 0;
@@ -5817,27 +5807,6 @@ figure {
     display: none
 }
 
-.navbar_link {
-    z-index: 0;
-    grid-column-gap: .375rem;
-    grid-row-gap: .375rem;
-    color: black;
-    cursor: pointer;
-    align-items: center;
-    height: 2rem;
-    margin-top: auto;
-    margin-bottom: auto;
-    margin-left: 0;
-    padding-left: 1.25rem;
-    padding-right: .5rem;
-    font-size: .875rem;
-    display: flex;
-    position: relative
-}
-
-.navbar_link.w--current {
-    opacity: 1
-}
 
 .header-about_img-wrapper {
     border-radius: 2rem 0 2rem 2rem;
@@ -6466,7 +6435,7 @@ figure {
 }
 
 .project-tag.background-purple-gradient {
-    background-image: linear-gradient(90deg,#d6a3e429,#d6a3e414)
+    background-image: linear-gradient(90deg,#ff472b29,#ff472b14)
 }
 
 .project-tags-corner {
@@ -6646,76 +6615,6 @@ figure {
     display: block
 }
 
-.navbar_dropdown-wrap {
-    grid-column-gap: 1.5rem;
-    grid-row-gap: 1.5rem;
-    flex-direction: row;
-    align-items: center;
-    padding-left: 1.5rem;
-    padding-right: 1.5rem;
-    display: flex;
-    position: relative
-}
-
-.navbar_link-text {
-    white-space: pre
-}
-
-.navbar_dropdown {
-    z-index: 2;
-    grid-column-gap: .375rem;
-    grid-row-gap: .375rem;
-    color: black;
-    cursor: pointer;
-    border-radius: .75rem;
-    align-items: center;
-    width: 6.5rem;
-    height: 3rem;
-    margin-top: .5rem;
-    margin-bottom: .5rem;
-    margin-left: 0;
-    padding-top: .5rem;
-    padding-bottom: .5rem;
-    padding-left: 1.5rem;
-    font-size: .875rem;
-    display: flex;
-    position: relative;
-    overflow: hidden
-}
-
-.navbar_dropdown.w--current {
-    opacity: 1
-}
-
-.navbar_dropdown-link {
-    grid-column-gap: .375rem;
-    grid-row-gap: .375rem;
-    color: black;
-    cursor: pointer;
-    align-items: center;
-    margin-top: .5rem;
-    margin-bottom: .5rem;
-    margin-left: 0;
-    padding: .5rem 0;
-    font-size: .875rem;
-    display: flex;
-    position: relative
-}
-
-.navbar_dropdown-link.w--current {
-    opacity: 1
-}
-
-.navbar_dropdown-bg {
-    z-index: -1;
-    opacity: 0;
-    perspective-origin: 0%;
-    transform-origin: 0%;
-    background-image: linear-gradient(90deg,#d6a3e40a,#d6a3e41f);
-    width: 100%;
-    position: absolute;
-    inset: 0% auto 0% 0%
-}
 
 .navbar_menu-wrap {
     grid-column-gap: .375rem;
@@ -6782,13 +6681,6 @@ figure {
     display: block
 }
 
-.navbar_links-wrap {
-    z-index: 9999;
-    align-items: center;
-    display: flex;
-    position: relative;
-    overflow: hidden
-}
 
 .navbar_menu-trigger {
     background-color: var(--light-black);
@@ -8227,14 +8119,6 @@ figure {
     display: flex
 }
 
-.navbar_link-bg {
-    z-index: -1;
-    opacity: 0;
-    background-image: linear-gradient(315deg,#d6a3e429,#d6a3e400);
-    border-radius: .5rem;
-    position: absolute;
-    inset: 0%
-}
 
 .navbar_dot-wrap {
     justify-content: center;
@@ -8703,7 +8587,7 @@ figure {
     z-index: 0;
     background-color: var(--off-white);
     color: var(--slight-black);
-    background-image: linear-gradient(#f3efef33 75%,#d6a3e433);
+    background-image: linear-gradient(#f3efef33 75%,#ff472b33);
     border-radius: 2rem;
     position: relative
 }
@@ -8864,7 +8748,7 @@ figure {
 .wg-button {
     color: var(--grey);
     text-transform: uppercase;
-    background-image: linear-gradient(135deg,#d6a3e400,#d6a3e412);
+    background-image: linear-gradient(135deg,#ff472b00,#ff472b12);
     border: 1px solid #ffffff29;
     border-radius: 100vw;
     flex-direction: column;
@@ -9047,7 +8931,7 @@ figure {
 .wg-button-2 {
     color: #c8c6c6;
     text-transform: uppercase;
-    background-image: linear-gradient(135deg,#d6a3e400,#d6a3e412);
+    background-image: linear-gradient(135deg,#ff472b00,#ff472b12);
     border: 1px solid #ffffff29;
     border-radius: 100vw;
     flex-direction: column;
@@ -9082,7 +8966,7 @@ figure {
 .wg-button-3 {
     color: #c8c6c6;
     text-transform: uppercase;
-    background-image: linear-gradient(135deg,#d6a3e400,#d6a3e412);
+    background-image: linear-gradient(135deg,#ff472b00,#ff472b12);
     border: 1px solid #ffffff29;
     border-radius: 100vw;
     flex-direction: column;
@@ -9123,7 +9007,7 @@ figure {
     grid-row-gap: .375rem;
     color: #141414;
     cursor: pointer;
-    background-color: #d6a3e4;
+    background-color: #ff472b;
     border-radius: .5rem;
     align-items: center;
     height: 2rem;
@@ -10448,7 +10332,7 @@ figure {
 
 .start-project_arrow.bg-purple {
     background-color: var(--purple);
-    background-color: #d6a3e4;
+    background-color: #ff472b;
     position: relative
 }
 
@@ -11063,7 +10947,7 @@ figure {
 }
 
 .integrations_item:hover {
-    border: 1px solid #d6a3e433
+    border: 1px solid #ff472b33
 }
 
 .integrations_img {
@@ -11178,13 +11062,6 @@ figure {
     border-radius: 100vw;
     width: 300px;
     height: 300px
-}
-
-.circle {
-    
-    border-radius: 100vw;
-    width: 500px;
-    height: 500px
 }
 
 .section_linktree {
@@ -11591,10 +11468,6 @@ figure {
         white-space: pre
     }
 
-    .navbar_links {
-        display: none
-    }
-
     .media_wrap {
         align-items: flex-start
     }
@@ -11937,13 +11810,6 @@ figure {
         display: flex
     }
 
-    .navbar_link {
-        margin-top: 0;
-        margin-bottom: 0;
-        padding: 1rem 0;
-        font-size: 1.25rem;
-        position: static
-    }
 
     .header-about_img-wrapper {
         height: 32rem;
@@ -12146,13 +12012,6 @@ figure {
         display: block
     }
 
-    .navbar_dropdown,.navbar_dropdown-link {
-        margin-top: 0;
-        margin-bottom: 0;
-        padding: 1rem 0;
-        font-size: 1.25rem;
-        position: static
-    }
 
     .navbar_menu-wrap {
         grid-column-gap: .375rem;
@@ -18689,7 +18548,7 @@ textarea.w-input,textarea.w-select {
     --off-white: #f3efef;
     --orange: #ff472b;
     --slight-black: #141414;
-    --purple: #d6a3e4;
+    --purple: #ff472b;
     --text-grey: #5a5a5a;
     --white: white;
     --border-circle: 1000rem;
@@ -20571,7 +20430,7 @@ figure {
 
 .button-icon_wrap.bg-purple {
     background-color: var(--purple);
-    background-color: #d6a3e4;
+    background-color: #ff472b;
     position: relative
 }
 
@@ -20609,7 +20468,7 @@ figure {
 
 .button-icon_hover.bg-purple {
     background-color: var(--purple);
-    background-color: #d6a3e4
+    background-color: #ff472b
 }
 
 .button-icon_hover.is-ghost-light-purple {
@@ -21441,7 +21300,7 @@ figure {
 
 .svg__image {
     z-index: 1;
-    background-color: #d6a3e4;
+    background-color: #ff472b;
     width: 100%;
     display: block
 }
@@ -21617,7 +21476,7 @@ figure {
 }
 
 .services-item_arrow-wrap {
-    background-image: linear-gradient(315deg,#d6a3e429,#d6a3e400);
+    background-image: linear-gradient(315deg,#ff472b29,#ff472b00);
     border-radius: 100vw;
     flex: none;
     justify-content: center;
@@ -21726,7 +21585,7 @@ figure {
 .background-gradient {
     z-index: -1;
     opacity: 1;
-    background-image: linear-gradient(135deg,#d6a3e400,#d6a3e412);
+    background-image: linear-gradient(135deg,#ff472b00,#ff472b12);
     border-radius: 2rem;
     width: 100%;
     height: 100%;
@@ -21736,13 +21595,13 @@ figure {
 
 .background-gradient.is-no-code-benefits {
     opacity: 0;
-    background-image: linear-gradient(135deg,#d6a3e400,#d6a3e429);
+    background-image: linear-gradient(135deg,#ff472b00,#ff472b29);
     border-bottom: 1px solid #48424e33
 }
 
 .background-gradient.is-faq {
     opacity: 0;
-    background-image: linear-gradient(135deg,#d6a3e400,#d6a3e429);
+    background-image: linear-gradient(135deg,#ff472b00,#ff472b29);
     border-radius: 0
 }
 
@@ -21801,7 +21660,7 @@ figure {
 
 .services-item_hover-bg {
     opacity: 0;
-    background-image: linear-gradient(135deg,#d6a3e400,#d6a3e412);
+    background-image: linear-gradient(135deg,#ff472b00,#ff472b12);
     border-bottom: .0625rem solid #48424e;
     border-radius: 2rem;
     width: 100%;
@@ -21843,7 +21702,7 @@ figure {
 }
 
 .heading-dot {
-    color: #d6a3e4
+    color: #ff472b
 }
 
 .why-ctc_heading {
@@ -21969,7 +21828,7 @@ figure {
 }
 
 .button-3.is-form-submit:hover {
-    background-color: #d6a3e4
+    background-color: #ff472b
 }
 
 .why-citc_item-wrap {
@@ -22142,7 +22001,7 @@ figure {
 .button-link_bg {
     z-index: 0;
     opacity: 0;
-    background-image: linear-gradient(212deg,#d6a3e400 51%,#d6a3e4);
+    background-image: linear-gradient(212deg,#ff472b00 51%,#ff472b);
     position: absolute;
     inset: 0%
 }
@@ -22153,7 +22012,7 @@ figure {
 }
 
 .button-link_bg.is-bottom {
-    background-image: linear-gradient(302deg,#d6a3e400 51%,#d6a3e4)
+    background-image: linear-gradient(302deg,#ff472b00 51%,#ff472b)
 }
 
 .button-link_bg.is-white {
@@ -22220,7 +22079,7 @@ figure {
     z-index: 1;
     border: 1px solid var(--purple);
     color: #141414;
-    background-color: #d6a3e4;
+    background-color: #ff472b;
     border-top-left-radius: 2rem;
     border-top-right-radius: 2rem;
     position: relative;
@@ -22254,7 +22113,7 @@ figure {
 
 .form_input-foot:hover,.form_input-foot:focus {
     border-width: 1px;
-    border-color: #d6a3e4
+    border-color: #ff472b
 }
 
 .foot-link_dot {
@@ -22332,7 +22191,7 @@ figure {
 }
 
 .btn-social.is-purple {
-    background-color: #d6a3e4
+    background-color: #ff472b
 }
 
 .foot-subscribe {
@@ -22451,7 +22310,7 @@ figure {
 .foot_logo {
     grid-column-gap: .0625rem;
     grid-row-gap: .0625rem;
-    color: #d6a3e4;
+    color: #ff472b;
     width: 3.5rem;
     display: flex;
     position: absolute;
@@ -22486,7 +22345,7 @@ figure {
 }
 
 .foot_text-link:hover {
-    color: #d6a3e4
+    color: #ff472b
 }
 
 .heading-success {
@@ -22514,7 +22373,7 @@ figure {
 }
 
 .foot_icon {
-    color: #d6a3e4;
+    color: #ff472b;
     max-width: 25%;
     position: absolute;
     top: 0;
@@ -23192,7 +23051,7 @@ figure {
 }
 
 .project-tag.background-purple-gradient {
-    background-image: linear-gradient(90deg,#d6a3e429,#d6a3e414)
+    background-image: linear-gradient(90deg,#ff472b29,#ff472b14)
 }
 
 .project-tags-corner {
@@ -23437,7 +23296,7 @@ figure {
     opacity: 0;
     perspective-origin: 0%;
     transform-origin: 0%;
-    background-image: linear-gradient(90deg,#d6a3e40a,#d6a3e41f);
+    background-image: linear-gradient(90deg,#ff472b0a,#ff472b1f);
     width: 100%;
     position: absolute;
     inset: 0% auto 0% 0%
@@ -24956,7 +24815,7 @@ figure {
 .navbar_link-bg {
     z-index: -1;
     opacity: 0;
-    background-image: linear-gradient(315deg,#d6a3e429,#d6a3e400);
+    background-image: linear-gradient(315deg,#ff472b29,#ff472b00);
     border-radius: .5rem;
     position: absolute;
     inset: 0%
@@ -25429,7 +25288,7 @@ figure {
     z-index: 0;
     background-color: var(--off-white);
     color: var(--slight-black);
-    background-image: linear-gradient(#f3efef33 75%,#d6a3e433);
+    background-image: linear-gradient(#f3efef33 75%,#ff472b33);
     border-radius: 2rem;
     position: relative
 }
@@ -25590,7 +25449,7 @@ figure {
 .wg-button {
     color: var(--grey);
     text-transform: uppercase;
-    background-image: linear-gradient(135deg,#d6a3e400,#d6a3e412);
+    background-image: linear-gradient(135deg,#ff472b00,#ff472b12);
     border: 1px solid #ffffff29;
     border-radius: 100vw;
     flex-direction: column;
@@ -25773,7 +25632,7 @@ figure {
 .wg-button-2 {
     color: #c8c6c6;
     text-transform: uppercase;
-    background-image: linear-gradient(135deg,#d6a3e400,#d6a3e412);
+    background-image: linear-gradient(135deg,#ff472b00,#ff472b12);
     border: 1px solid #ffffff29;
     border-radius: 100vw;
     flex-direction: column;
@@ -25808,7 +25667,7 @@ figure {
 .wg-button-3 {
     color: #c8c6c6;
     text-transform: uppercase;
-    background-image: linear-gradient(135deg,#d6a3e400,#d6a3e412);
+    background-image: linear-gradient(135deg,#ff472b00,#ff472b12);
     border: 1px solid #ffffff29;
     border-radius: 100vw;
     flex-direction: column;
@@ -25849,7 +25708,7 @@ figure {
     grid-row-gap: .375rem;
     color: #141414;
     cursor: pointer;
-    background-color: #d6a3e4;
+    background-color: #ff472b;
     border-radius: .5rem;
     align-items: center;
     height: 2rem;
@@ -27174,7 +27033,7 @@ figure {
 
 .start-project_arrow.bg-purple {
     background-color: var(--purple);
-    background-color: #d6a3e4;
+    background-color: #ff472b;
     position: relative
 }
 
@@ -27789,7 +27648,7 @@ figure {
 }
 
 .integrations_item:hover {
-    border: 1px solid #d6a3e433
+    border: 1px solid #ff472b33
 }
 
 .integrations_img {
@@ -33450,4 +33309,64 @@ ont-size: 1.5rem
     font-style: normal;
     font-display: block;
 }
+
+.padding-medium {
+    padding: 1.5rem;
+    display: block;
+} 
+          .nav-scroll-trigger {
+              height: calc(100% - 110vh);
+          }
+
+          .body-white .navbar_link, .body-white .navbar_dropdown, .body-white .status-bar__scroll-item, .body-white .status-bar__title-wrapper, .body-white .navbar_dropdown-link, .body-white.is-contact .navbar_logo {
+              color: #141414 !important;
+          }
+
+          .body-white .status-bar__gradient.is-light, .body-white .status-bar__gradient.is-light-right {
+              display: block !important;
+          }
+
+          .body-white .status-bar__gradient.is-dark, .body-white .status-bar__gradient.is-dark-right {
+              display: none !important;
+          }
+
+          .body-white.is-contact .footer, .body-white .navbar_menu-trigger, .body-white.is-contact .navbar_dot.background-purple {
+              background-color: white !important;
+          }
+
+          .body-white.is-contact .footer_icon {
+              color: white !important;
+          }
+
+          .body-white .navbar_link-bg, .body-white .navbar_dropdown-bg {
+              background-color: white !important;
+          }
+
+          .body-white.is-contact .navbar_link-bg, .body-white.is-contact .navbar_dropdown-bg {
+              background-color: #e3b2f1 !important;
+          }
+
+          .navbar_link.w--current .navbar_dot.background-purple {
+              width: 0.375rem !important;
+              height: 0.375rem !important;
+          }
+
+          .navbar_link.w--current .navbar_dot, .navbar_menu-link.w--current .navbar_dot, .navbar_menu-dropdown-link.w--current .navbar_dot, .navbar_dropdown-link.w--current .navbar_dot {
+              width: 0.5rem !important;
+              height: 0.5rem !important;
+          }
+
+          .body-white.is-contact .footer {
+              border-color: white !important;
+          }
+
+          /* Weglot Switch */
+          .body-white .wg-button {
+              border: 1px solid rgb(0 0 0 / 16%);
+              color: #000000;
+          }
+
+          .body-white .wg-button:hover {
+              color: #000000;
+          }
 >>>>>>> 53092499db29e432daf255774a5fc37ddac23262
