@@ -4011,12 +4011,6 @@ figure {
   position: relative;
 }
 
-.button-icon_wrap.bg-purple {
-  background-color: var(--purple);
-  background-color: #ff472b;
-  position: relative;
-}
-
 .button-icon_wrap.is-ghost-light-purple {
   background-color: var(--light-purple);
   border: 1px solid #14141433;
@@ -55460,12 +55454,6 @@ figure {
 
 .button-icon_wrap.background-purple {
   z-index: 0;
-  position: relative;
-}
-
-.button-icon_wrap.bg-purple {
-  background-color: var(--purple);
-  background-color: #d6a3e4;
   position: relative;
 }
 

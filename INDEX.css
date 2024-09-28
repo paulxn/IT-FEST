@@ -2257,20 +2257,6 @@ figure {
     margin: 0
 }
 
-.section-padding {
-    width: 100%;
-    padding-left: 4rem;
-    padding-right: 4rem
-}
-
-.section-padding.is-no_padding.is-overflow_hidden {
-    overflow: hidden
-}
-
-.section-padding.hide {
-    display: none
-}
-
 .page-wrapper {
     z-index: 0;
     position: relative;
@@ -3831,12 +3817,6 @@ figure {
 
 .button-icon_wrap.background-purple {
     z-index: 0;
-    position: relative
-}
-
-.button-icon_wrap.bg-purple {
-    background-color: var(--purple);
-    background-color: #ff472b;
     position: relative
 }
 
@@ -12657,20 +12637,6 @@ figure {
         font-size: 2rem
     }
 
-    .section-padding {
-        padding-left: 1.5rem;
-        padding-right: 1.5rem
-    }
-
-    .section-padding.is-no_padding {
-        padding-left: 0;
-        padding-right: 0
-    }
-
-    .section-padding.is-overflow_hidden {
-        overflow: hidden
-    }
-
     .padding-bottom {
         padding-top: 0;
         padding-left: 0;
@@ -16662,10 +16628,6 @@ img {
     border: 0
 }
 
-svg:not(:root) {
-    overflow: hidden
-}
-
 hr {
     box-sizing: content-box;
     height: 0
@@ -18544,23 +18506,6 @@ textarea.w-input,textarea.w-select {
     left: 0
 }
 
-:root {
-    --light-black: #222;
-    --off-white: #f3efef;
-    --orange: #ff472b;
-    --slight-black: #141414;
-    --purple: #ff472b;
-    --text-grey: #5a5a5a;
-    --white: white;
-    --border-circle: 1000rem;
-    --dark-grey: #999;
-    --green: #c3d9c3;
-    --grey: #c8c6c6;
-    --light-purple: #e3b2f1;
-    --black: black;
-    --accessible-components-dark-grey: #9b9b9b
-}
-
 .w-form-formrecaptcha {
     margin-bottom: 8px
 }
@@ -20428,13 +20373,6 @@ figure {
     z-index: 0;
     position: relative
 }
-
-.button-icon_wrap.bg-purple {
-    background-color: var(--purple);
-    background-color: #ff472b;
-    position: relative
-}
-
 .button-icon_wrap.is-ghost-light-purple {
     background-color: var(--light-purple);
     border: 1px solid #14141433
@@ -29382,21 +29320,6 @@ figure {
     .heading-style-h3 {
         font-size: 2rem
     }
-
-    .section-padding {
-        padding-left: 1.5rem;
-        padding-right: 1.5rem
-    }
-
-    .section-padding.is-no_padding {
-        padding-left: 0;
-        padding-right: 0
-    }
-
-    .section-padding.is-overflow_hidden {
-        overflow: hidden
-    }
-
     .padding-bottom {
         padding-top: 0;
         padding-left: 0;
@@ -33450,10 +33373,6 @@ img {
     border: 0
 }
 
-svg:not(:root) {
-    overflow: hidden
-}
-
 hr {
     box-sizing: content-box;
     height: 0
@@ -35332,23 +35251,6 @@ textarea.w-input,textarea.w-select {
     left: 0
 }
 
-:root {
-    --light-black: #222;
-    --off-white: #f3efef;
-    --orange: #ff472b;
-    --slight-black: #141414;
-    --purple: #d6a3e4;
-    --text-grey: #5a5a5a;
-    --white: white;
-    --border-circle: 1000rem;
-    --dark-grey: #999;
-    --green: #c3d9c3;
-    --grey: #c8c6c6;
-    --light-purple: #e3b2f1;
-    --black: black;
-    --accessible-components-dark-grey: #9b9b9b
-}
-
 .w-form-formrecaptcha {
     margin-bottom: 8px
 }
@@ -37214,12 +37116,6 @@ figure {
 
 .button-icon_wrap.background-purple {
     z-index: 0;
-    position: relative
-}
-
-.button-icon_wrap.bg-purple {
-    background-color: var(--purple);
-    background-color: #d6a3e4;
     position: relative
 }
 
@@ -50176,10 +50072,6 @@ img {
     border: 0
 }
 
-svg:not(:root) {
-    overflow: hidden
-}
-
 hr {
     box-sizing: content-box;
     height: 0
@@ -52058,22 +51950,6 @@ textarea.w-input,textarea.w-select {
     left: 0
 }
 
-:root {
-    --light-black: #222;
-    --off-white: #f3efef;
-    --orange: #ff472b;
-    --slight-black: #141414;
-    --purple: #d6a3e4;
-    --text-grey: #5a5a5a;
-    --white: white;
-    --border-circle: 1000rem;
-    --dark-grey: #999;
-    --green: #c3d9c3;
-    --grey: #c8c6c6;
-    --light-purple: #e3b2f1;
-    --black: black;
-    --accessible-components-dark-grey: #9b9b9b
-}
 
 .w-form-formrecaptcha {
     margin-bottom: 8px
@@ -53940,12 +53816,6 @@ figure {
 
 .button-icon_wrap.background-purple {
     z-index: 0;
-    position: relative
-}
-
-.button-icon_wrap.bg-purple {
-    background-color: var(--purple);
-    background-color: #d6a3e4;
     position: relative
 }
 
